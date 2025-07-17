@@ -1,0 +1,163 @@
+Code,Name,LastPurchaseDate,FREQUENCY,MONETARY,RECENCY,RFM_Score,Value_Segment
+PL000170C,Reema glading factory,2025-03-24,1,1500.0,37,144,Mid-Value
+PL000169C,Tyne Gulf Industrial Company,2025-03-12,1,3838.13,49,144,Mid-Value
+PL000166C,Larsen Toubro Limited,2025-03-23,2,148657.05,38,132,Mid-Value
+PL000165C,Berain Closed Joint Stock Company,2025-01-02,1,31452.5,118,143,Mid-Value
+PL000164C,Mohammed Hussain Alathalh factory,2025-01-30,4,151328.5,90,122,High-Value
+PL000163C,Shabbeek Shatta Food Services Company,2024-11-27,1,6131.8,154,144,Mid-Value
+PL000159C,Al Saif Operation and Maintenance Company,2024-11-19,1,3000.35,162,144,Mid-Value
+PL000158C,BANG Kransysteme GmbH Co. KG,2025-04-13,12,2022629.36,17,111,VIP
+PL000156C,AJEEJ STEEL MANUFACTURING CO,2024-10-27,1,33245.35,185,243,Low-Value
+PL000155C,Multi power solutions for operation maintenance,2025-02-27,1,87226.47,62,142,Mid-Value
+PL000153C,Abdullah bin taleb company for trading and industry,2024-11-10,2,157163.83,171,232,Mid-Value
+PL000149C,United Wire Factories Company,2024-09-02,2,34103.0,240,233,Mid-Value
+PL000145C,UNITED SULB INDUSTRY COMPANY,2024-10-07,3,17207.45,205,223,Mid-Value
+PL000144C,Gulf Maid,2025-03-06,2,64413.05,55,132,Mid-Value
+PL000143C,Abdulla Mohammed Ibrahim Alziyabi Est,2024-08-18,1,20448.29,255,243,Low-Value
+PL000142C,Metal development,2024-11-04,4,24683.6,177,223,Mid-Value
+PL000141C,Bahra Steel Company,2024-12-12,4,24750.88,139,123,Mid-Value
+PL000140C,EASTERN MORRIS CRANES CO. LTD,2025-03-23,1,23741.75,38,143,Mid-Value
+PL000139C,ALI ABDULMOHSIN AL-TAMIMI SONS COMPANY,2024-08-27,1,35917.76,246,243,Low-Value
+PL000138C,ALNAFIE METAL INDUSTRIES CO. LTD.,2025-04-15,7,152368.68,15,112,High-Value
+PL000137C,Attieh Trading Company,2024-08-14,1,5311.85,259,244,Low-Value
+PL000136C,Saudi Water Authority,2024-08-06,2,14883.3,267,233,Mid-Value
+PL000135C,SONS OF ABDULLAH A ALSUNAID COMPANY,2024-07-29,1,805.0,275,244,Low-Value
+PL000134C,Triomada Plastic International Co.,2025-02-13,3,9892.88,76,124,Mid-Value
+PL000130C,Opal united factory for concrete products,2024-05-15,1,17858.35,350,243,Low-Value
+PL000129C,Valuable Metal for Metal Industrial Co.,2024-06-04,2,69575.0,330,232,Mid-Value
+PL000128C,Winchy Kuwait Company,2024-07-24,2,2960.75,280,234,Low-Value
+PL000127C,Packers Plus Saudi Arabia Industries Limited,2025-01-16,8,73078.26,104,112,High-Value
+PL000125C,SSAB SAUDI FACTORY,2025-04-24,4,21033.5,6,123,Mid-Value
+PL000124C,MGB International for Industry,2025-01-13,5,46587.08,107,112,High-Value
+PL000123C,INNOVATIVE FLOOR FACTORY OFFICES PROJECT,2024-08-21,3,190248.53,252,221,Mid-Value
+PL000122C,Solb Tihamah Company,2024-10-17,4,79254.4,195,222,Mid-Value
+PL000120C,The International Electrical Products Co,2025-01-12,4,38956.71,108,112,High-Value
+PL000119C,Al-Kifah Precast Company,2025-02-27,4,170543.85,62,111,VIP
+PL000116C,MVL Group,2024-07-01,2,2438.0,303,234,Low-Value
+PL000115C,Abdullah Abdin Factory,2024-02-04,1,160005.25,451,242,Low-Value
+PL000113C,A.N. Alodan Sons Co. Glass Aluminium Factory,2024-07-30,2,4571.25,274,234,Low-Value
+PL000112C,AL Walidah First Industry CO. Ltd,2024-01-21,1,153994.2,465,242,Low-Value
+PL000110C,SWCC,2025-02-12,3,40330.5,77,122,High-Value
+PL000108C,Gulf Packaging Industries Co.,2025-02-20,17,252956.88,69,111,VIP
+PL000106C,JUTHOR PAPER MANUFACTURING COMPANY,2025-01-16,2,98988.55,104,132,Mid-Value
+PL000103C,Precast Building System Co. Ltd,2023-11-20,1,14448.6,527,343,Low-Value
+PL000102C,Al-Adwani Contracting Establishment owned by Aboud Abdul-Rahman Muhammad Al-Adwani,2023-11-29,4,10498.75,518,213,Mid-Value
+PL000100C,Al-Khayyat Factories Company for Trading And Red Bricks AL-Khumra,2024-03-05,1,8567.5,421,244,Low-Value
+PL000098C,Aktar Steel,2025-04-20,5,25264.35,10,113,High-Value
+PL000096C,Sulb Al Jazeera Concrete Manufacturing,2025-02-17,15,461683.14,72,111,VIP
+PL000095C,AL MOUSA SPECIALIZED CABLES,2023-10-02,2,12144.0,576,333,Low-Value
+PL000093C,AFAQ STEEL,2023-07-06,1,3421.83,664,344,Low-Value
+PL000092C,RADWA GULF Co.LTD.,2023-07-05,1,3650.1,665,344,Low-Value
+PL000087C,Saudi Services for Electro Mechanic Work SSEM,2023-06-19,1,2760.0,681,344,Low-Value
+PL000086C,Ateyatallah Mabrook B.Al Harbi General Contracting,2024-11-17,9,110155.83,164,212,Mid-Value
+PL000084C,Hussien Omar Al- Attas Factory Company,2024-12-17,7,3617507.4,134,111,VIP
+PL000083C,TALAI AL-FOLATH FOR MANUFACTURING CO,2024-11-12,16,1040102.55,169,211,Mid-Value
+PL000082C,RAJHI STEEL,2023-11-17,1,55545.0,530,342,Low-Value
+PL000081C,Saudi Aluminum Polars Factory Company LTD,2023-03-19,1,500.0,773,344,Low-Value
+PL000080C,Al Ittefaq Steel Products Co,,2,80408.0,0,122,High-Value
+PL000077C,Madar Building Materials Limited Co.,2024-07-04,6,289178.02,300,211,Mid-Value
+PL000074C,Al FAHD,2023-02-21,1,1380.0,799,344,Low-Value
+PL000072C,Diraty industry Company,2023-02-06,1,3605.25,814,344,Low-Value
+PL000071C,Consortium of Advanced Water Technology and Rawafid Industrial Company,2023-11-20,5,231268.76,527,311,Low-Value
+PL000069C,Creativity of Cranes EST.,2024-12-16,2,163386.07,135,121,High-Value
+PL000067C,Rabigh Operation and Maintenance Co Ltd,2022-12-12,2,1725.0,870,324,Low-Value
+PL000066C,Alroba Alaly co.,2022-12-06,2,300150.0,876,321,Low-Value
+PL000065C,Saad Khafeer Al Musaad and partner Com Ltd,2022-12-04,1,5797.15,878,344,Low-Value
+PL000064C,Alanwa company,2022-11-27,1,53032.25,885,342,Low-Value
+PL000063C,AASIA TECTUBI FACTORY INDUSTRY CO LTD.,2023-09-12,1,3105.0,596,344,Low-Value
+PL000062C,international innovative industries,2023-07-09,4,1593423.02,661,311,Low-Value
+PL000061C,SAUDI GERMAN COMPANY for Non woven products,2022-09-04,1,35664.95,969,343,Low-Value
+PL000060C,Arabian Consolidated Contracting Co. Ltd. - ACCON,2023-05-29,2,104090.06,702,322,Low-Value
+PL000059C,Modern Factory for Steel Industries Co. Ltd,2024-09-02,2,230549.41,240,221,Mid-Value
+PL000058C,Al MOTKAMELAH AL OULA AUTO PARTS CO,2022-08-10,1,805.0,994,344,Low-Value
+PL000057C,ACE CRANES ENGINEERING SAUDI FOR MANUFACTURING,2022-10-06,6,408908.6,937,311,Low-Value
+PL000056C,Saudi Canadian Mining Services,2022-08-04,1,126885.14,1000,342,Low-Value
+PL000055C,Aluminium Products CompanyAlupco,2022-07-19,2,99003.5,1016,322,Low-Value
+PL000054C,BRC INDUSTRIAL SAUDIA CO.,2024-09-27,8,124735.28,215,212,Mid-Value
+PL000053C,JUFFALI AIR DUCT ASSEMBLY DIVISION,2022-10-09,2,7043.75,934,324,Low-Value
+PL000052C,SAUDI LIEBHERR CO.LTD,2022-06-26,1,10128.05,1039,343,Low-Value
+PL000050C,SAUDI PAPER MANUFACTURING CO.,2023-09-19,4,410268.24,589,311,Low-Value
+PL000049C,MASDAR BUILDING MATERIALS,2025-04-13,33,625521.0,17,111,VIP
+PL000048C,ABDUL LATIF JAMEEL SUMMIT COMPANY LIMITED,2022-05-30,2,869373.0,1066,421,Low-Value
+PL000047C,TAMEER STEEL FACTORY,2025-03-17,27,1320528.07,44,111,VIP
+000045,Saad Alessa Metal Industries Factory,2022-05-08,1,30187.5,1088,433,Low-Value
+000044,Marjan Factory for Fiberglass Company,2022-09-13,4,454250.0,960,311,Low-Value
+000043,Oilfields Supply Company Saudi,2022-05-08,1,29325.0,1088,433,Low-Value
+000042,Zamil Process Equipment Co. Ltd,2022-04-17,1,3416.65,1109,434,Low-Value
+000041,Altaiseer Aluminium Company,2022-04-13,1,8895.25,1113,434,Low-Value
+000040,Global Anti Corrosion Technique Co.,2024-09-24,4,453916.5,218,211,Mid-Value
+000039,National Factory For Glass Bottles,2022-04-01,1,286421.3,1125,431,Low-Value
+000038,Kindasa Water Services KWS,2022-04-01,1,3570.75,1125,434,Low-Value
+000037,WestrenGeco Saudi Arabia Limited,2022-03-30,2,13189.35,1127,423,Low-Value
+000036,Baker Hughes Saudi Arabia Co,2022-02-28,2,97220.83,1157,422,Low-Value
+000035,Factory of Qanbar Dywidag Precast Concrete Co LTD,2022-04-14,2,189954.7,1112,421,Low-Value
+000034,Advanced Piping Solutions,2022-02-28,1,15582.5,1157,433,Low-Value
+000033,Schlumberger Manufacturing Center,2022-02-28,2,13189.35,1157,423,Low-Value
+000032,Metal International Co. For Trade,2022-02-23,1,2070.0,1162,434,Low-Value
+000031,Mitwalli Steel Products Factory Co,2025-03-13,8,640294.01,48,111,VIP
+000030,Tabuk Steel Company,2024-09-02,10,389626.9,240,211,Mid-Value
+000029,Saudi Cranes and Steel Works Factory Ltd,2022-02-21,1,25262.28,1164,433,Low-Value
+000028,Unity Steel Company,2022-03-30,2,1524.9,1127,424,Low-Value
+000027,Arabian International Company for Steel Structure,2024-09-18,4,133080.2,224,212,Mid-Value
+000026,Al -Bunyan Steel Company,2022-06-22,2,657547.0,1043,321,Low-Value
+000025,Advanced Water Technology Company Rawafid Industrial SETE Energy Al Falah International Constructions,2025-01-21,6,1057309.17,99,111,VIP
+000023,ALFANAR BUILDING SYSTEMS COMPANY,2022-03-22,1,5738.57,1135,434,Low-Value
+000021,Marine Service Co LTD,2022-02-04,2,1139890.51,1181,421,Low-Value
+000020,Rosenbauer Saudi Arabia LTD,2022-01-04,1,25325.3,1212,433,Low-Value
+000018,Expertise Contracting Co.LTD,2022-01-21,4,22205.35,1195,413,Low-Value
+000017,PERMA PIPE SAUDI ARABIA,2022-01-06,1,5828.2,1210,434,Low-Value
+000016,FUTURE PIPE INDUSTRIES LLC,2022-01-24,3,116651.4,1192,422,Low-Value
+000015,HITEC,2022-01-06,1,3444.48,1210,434,Low-Value
+000014,UNITED Transformer Electric Co,2022-01-18,2,184888.26,1198,421,Low-Value
+000013,ADDAMEGH FOR MAINTENANCE CONTRACTS,2022-01-03,1,5094.5,1213,434,Low-Value
+000012,FULAZ METAL FABRICATION BENCHMARK,2022-05-18,1,44974.0,1078,432,Low-Value
+000011,Saudi Metal Coating Co Ltd,2022-01-03,1,28249.76,1213,433,Low-Value
+000010,Zamil Structural Steel Company LTD,2022-01-11,2,18896.8,1205,423,Low-Value
+000009,Bahrain Cranes Machinery Equipment Co,2022-01-31,1,17948.0,1185,433,Low-Value
+000008,M/s Riyadh Crane Factory Company,2022-03-22,3,153743.0,1135,422,Low-Value
+000007,Arabian International Company for Steel Structure,2022-01-03,1,28249.76,1213,433,Low-Value
+000006,International Building Systems Factory Co.Ltd,2022-09-25,3,696850.97,948,321,Low-Value
+000005,General Electric International Inc -Branch SA,2022-06-08,4,156184.38,1057,312,Low-Value
+000004,Al RAJHI ENDOWMENTS CO,2023-12-25,4,306245.0,492,211,Mid-Value
+000003,Bawan Metal Industries,2023-05-29,1,57500.0,702,332,Low-Value
+PL000171C,AL SHOROUQ 2016 FOR CLY BRICKS CO.,,0,0.0,0,444,Non-Buyer
+PL000168C,ALKHORAYEF,,0,0.0,0,444,Non-Buyer
+PL000167C,Fulath Factory,,0,0.0,0,444,Non-Buyer
+PL000162C,Dynamik Industrial Equipments Solutions Co,,0,0.0,0,444,Non-Buyer
+PL000160C,Bin zalfan Co.,,0,0.0,0,444,Non-Buyer
+PL000157C,CLESCRANE,,0,0.0,0,444,Non-Buyer
+PL000154C,Al Jazyrah Cranes,,0,0.0,0,444,Non-Buyer
+PL000152C,Zahran Maintenance and Operation Company,,0,0.0,0,444,Non-Buyer
+PL000150C,WASI Steel Industries Factory Co.,,0,0.0,0,444,Non-Buyer
+PL000148C,PALL MANUFACTURING AND SERVICE CENTER,,0,0.0,0,444,Non-Buyer
+PL000147C,Electrical Automation Saudi Arabian Manufacturing Company,,0,0.0,0,444,Non-Buyer
+PL000146C,Ahmed Abdul Wahab Al-Omari Contracting Company,,0,0.0,0,444,Non-Buyer
+PL000133C,T.Nagadi preformed concrete factory,,0,0.0,0,444,Non-Buyer
+PL000132C,INCO Factory for Precast,,0,0.0,0,444,Non-Buyer
+PL000131C,Yamamah Steel,,0,0.0,0,444,Non-Buyer
+PL000126C,ARABIAN PIPES,,0,0.0,0,444,Non-Buyer
+PL000121C,Amiantit SADIP PLANT,,0,0.0,0,444,Non-Buyer
+PL000118C,Ali Owdah Hamdan Alshamrani Factory for Industry,,0,0.0,0,444,Non-Buyer
+PL000114C,Rafa Company for Industry,,0,0.0,0,444,Non-Buyer
+PL000109C,Steel Planet Company for Industry,,0,0.0,0,444,Non-Buyer
+PL000107C,Baamer Electric Factory,,0,0.0,0,444,Non-Buyer
+PL000105C,MEPCO,,0,0.0,0,444,Non-Buyer
+PL000104C,Diraty,,0,0.0,0,444,Non-Buyer
+PL000101C,ALBASHAYER FACTORY,,0,0.0,0,444,Non-Buyer
+PL000099C,Engineering Zone Co LTD.,,0,0.0,0,444,Non-Buyer
+PL000097C,SMART CRANES COMPANY,,0,0.0,0,444,Non-Buyer
+PL000094C,Tameer Steel Qatar,,0,0.0,0,444,Non-Buyer
+PL000091C,Al Maha Modular,,0,0.0,0,444,Non-Buyer
+PL000089C,MUSTAWA AL KHALEEJ FOR CONTRACTING EST.,,0,0.0,0,444,Non-Buyer
+PL000088C,Bureau Veritas,,0,0.0,0,444,Non-Buyer
+PL000085C,Alpla Plastic Middle East Saudi Industrial Co,,0,0.0,0,444,Non-Buyer
+PL000079C,ROLLC,,0,0.0,0,444,Non-Buyer
+PL000078C,SAPTEX,,0,0.0,0,444,Non-Buyer
+PL000076C,ACCURATE MEASUREMENT EST,,0,0.0,0,444,Non-Buyer
+PL000075C,Safa tiba glass factory,,0,0.0,0,444,Non-Buyer
+PL000073C,ARTIC,,0,0.0,0,444,Non-Buyer
+PL000070C,Saudi Electricity Company,,0,0.0,0,444,Non-Buyer
+PL000068C,Arabian Expert For Trading Company,,0,0.0,0,444,Non-Buyer
+PL000051C,UNIBETON READY MIX,,0,0.0,0,444,Non-Buyer
+000002,Arabian Vehicles Trucks Industry Co. Ltd.,,0,0.0,0,444,Non-Buyer
+000001,Digital Order EST,,0,0.0,0,444,Non-Buyer
